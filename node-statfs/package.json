@@ -1,0 +1,6 @@
+{
+  "name": "node-statfs",
+  "description": "A small wrapper around the statfs function",
+  "author": "Ivo Georgiev <ivo@linvo.org>",
+  "main": "./statfs.node"
+}
