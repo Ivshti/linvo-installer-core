@@ -1,3 +1,5 @@
+This is the core for Linvo Installer 5. Linvo Installer 4 is in the repo "Ivshti/linvo-installer", all others are obsolete, with 3 being the last used in the Linvo distribution.
+
 # How to use:
 
 ```javascript
