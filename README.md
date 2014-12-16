@@ -14,3 +14,9 @@ installer.startInstallation({
 	progress: function(percentage) { /* percentage is a floating point value from 0 to 100 representing the progress of the installation */ }
 })
 ```
+
+
+# Basic TODO
+
+* Partitioner Node.js module, based on LinvoInstaller4 partitioner
+* Do not call progress until weighing is complete
