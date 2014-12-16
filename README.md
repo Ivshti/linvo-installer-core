@@ -20,3 +20,5 @@ installer.startInstallation({
 
 * Partitioner Node.js module, based on LinvoInstaller4 partitioner
 * Do not call progress until weighing is complete
+* Consider handling BTRFS snapshots (creating a snapshot for the installed version)
+* Figure out a way to estimate remaining time in ms/s
